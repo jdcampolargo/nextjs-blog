@@ -19,12 +19,7 @@ export default function Home() {
 </h1>
         <p className="description">
           Get in touch with me on{' '}
-          <Link href="
-          https://twitter.com/jdcampolargo
-          ">
-            <a>Twitter</a>
-          </Link>
-          .
+          <a href="https://twitter.com/jdcampolargo">Twitter</a>.
         </p>
       </main>
 

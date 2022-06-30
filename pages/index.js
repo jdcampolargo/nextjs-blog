@@ -13,9 +13,8 @@ export default function Home() {
       <main>
         <h1 className="title">
         Rebuilding this website.{' '}
-  <Link href="https://juandavidcampolargo.substack.com/" target="_blank">
+  <a href="https://juandavidcampolargo.substack.com/" target="_blank">
     <a>🫠😉</a>
-  </Link>
 </h1>
 <h2>
     It's taking a long time...Coding is easy. Excellent design is brutal!
@@ -24,17 +23,12 @@ export default function Home() {
 
         <p className="description">
           Get in touch with me on{' '}
-          <Link href="https://twitter.com/jdcampolargo" target="_blank">
-            <a><span class="bolded">Twitter.</span></a>.
-              </Link>
-
+          <a href="https://twitter.com/jdcampolargo" target="_blank"><span class="bolded">Twitter.</span></a>.
         </p>
 
 <p className="description">
           You can find my essays{' '}
-          <Link href="https://juandavidcampolargo.substack.com/archive" target="_blank">
-            <a><span class="bolded">here.</span></a>.
-              </Link>
+          <a href="https://juandavidcampolargo.substack.com/archive" target="_blank"><span class="bolded">here.</span></a>.
 
         </p>
 

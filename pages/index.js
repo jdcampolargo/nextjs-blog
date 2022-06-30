@@ -26,12 +26,16 @@ export default function Home() {
           Get in touch with me on{' '}
           <Link href="https://twitter.com/jdcampolargo" target="_blank">
             <a><span class="bolded">Twitter.</span></a>.
+              </Link>
+
         </p>
 
 <p className="description">
           You can find my essays{' '}
           <Link href="https://juandavidcampolargo.substack.com/archive" target="_blank">
             <a><span class="bolded">here.</span></a>.
+              </Link>
+
         </p>
 
       </main>

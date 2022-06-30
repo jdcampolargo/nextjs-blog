@@ -25,13 +25,13 @@ export default function Home() {
         <p className="description">
           Get in touch with me on{' '}
           <Link href="https://twitter.com/jdcampolargo" target="_blank">
-            <a>**Twitter**</a>.
+            <a><strong>Twitter<strong/></a>.
         </p>
 
 <p className="description">
           You can find my essays{' '}
           <Link href="https://juandavidcampolargo.substack.com/archive" target="_blank">
-            <a>**here**</a>.
+            <a><strong>here<strong/></a>.
         </p>
 
       </main>

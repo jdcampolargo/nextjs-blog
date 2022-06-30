@@ -25,13 +25,13 @@ export default function Home() {
         <p className="description">
           Get in touch with me on{' '}
           <Link href="https://twitter.com/jdcampolargo" target="_blank">
-            <a><strong>Twitter<strong/></a>.
+            <a><span class="bolded">Twitter.</span></a>.
         </p>
 
 <p className="description">
           You can find my essays{' '}
           <Link href="https://juandavidcampolargo.substack.com/archive" target="_blank">
-            <a><strong>here<strong/></a>.
+            <a><span class="bolded">here.</span></a>.
         </p>
 
       </main>
@@ -102,6 +102,12 @@ export default function Home() {
         .description {
           text-align: center;
         }
+        
+        .bolded { 
+        font-weight: bold; 
+        }
+
+
 
         .description {
           line-height: 1.5;

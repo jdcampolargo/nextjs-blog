@@ -12,11 +12,16 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-        "I'm rebuilding this website but it's taking me longer than expected. Coding is easy. Excellent design is brutal."!{' '}
+        Rebuilding this website.{' '}
   <Link href="https://juandavidcampolargo.substack.com/">
     <a>🫠😉</a>
   </Link>
 </h1>
+<h2>
+    It's taking a long time...Coding is easy. Excellent design is brutal."!
+
+</h2>
+
         <p className="description">
           Get in touch with me on{' '}
           <a href="https://twitter.com/jdcampolargo">Twitter</a>.

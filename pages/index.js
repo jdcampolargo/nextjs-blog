@@ -13,19 +13,25 @@ export default function Home() {
       <main>
         <h1 className="title">
         Rebuilding this website.{' '}
-  <Link href="https://juandavidcampolargo.substack.com/">
+  <Link href="https://juandavidcampolargo.substack.com/" target="_blank">
     <a>🫠😉</a>
   </Link>
 </h1>
 <h2>
-    It's taking a long time...Coding is easy. Excellent design is brutal."!
+    It's taking a long time...Coding is easy. Excellent design is brutal!
 
 </h2>
 
         <p className="description">
           Get in touch with me on{' '}
-          <a href="https://twitter.com/jdcampolargo">Twitter</a>.
+          <a href="https://twitter.com/jdcampolargo" target="_blank">**Twitter**</a>.
         </p>
+
+<p className="description">
+          You can find my essays{' '}
+          <a href="https://juandavidcampolargo.substack.com/archive" target="_blank">**here**</a>.
+        </p>
+
       </main>
 
 
